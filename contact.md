@@ -5,8 +5,8 @@ permalink: /contact/
 ---
 
 Tel/Fax: +604-7319 486  
-Mobile: +6012-4200 963  
-Email: hlgranite@gmail.com  
+Mobile: +6012-4200 963, +6012-42500 37  
+E-mail: [hlgranite@gmail.com](mailto:hlgranite@gmail.com)  
 
 Address
 -------
