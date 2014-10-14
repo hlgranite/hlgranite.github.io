@@ -17,6 +17,6 @@ We do also supplying counter tops for bank and commemorative plaque for school e
 
 Apart from supplying renovation material, at the early stage we start our business with traditional Chinese memorial stone, we're almost more than 30 years of experience in tomb making which included Chinese/Christian/Hindus tomb/epitaph, and Malay Batu Nisan.
 We produce traditional Chinese praying plate such as tigong, tizhu god, datuk god etc.
-We also expert in Malay kepok/halar engraving, providing a good engraving jawi on batu nisan.
+We also expert in Malay kepok/lahar engraving, providing a good engraving jawi on batu nisan.
 
 The last but not the least, we are in the partnership with Asiabina Reality Sdn. Bhd., Sungai Petani's Bengshew which provide a good quality of ash memorial stone.
