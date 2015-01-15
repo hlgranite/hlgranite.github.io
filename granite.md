@@ -5,7 +5,7 @@ permalink: /granite/
 categories: granite
 ---
 
-We offer several granite types.
+We offer several types of granite.
 
 1. \#603
 ---

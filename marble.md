@@ -5,7 +5,7 @@ permalink: /marble/
 categories: marble
 ---
 
-We offer several type of marble.
+We offer several types of marble.
 
 1. Dark Emperador
 -----------------
