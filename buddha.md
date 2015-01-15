@@ -5,7 +5,7 @@ permalink: /buddha/
 categories: house buddha
 ---
 
-One of the Chinese tradition custom is to prostrate Tigong(天官) & Dizhu(地主) god.
+One of the Chinese tradition custom is to prostrate Tigong (天官) & Dizhu (地主) god.
 
 #T003
 ![T003](/images/T003.jpg)

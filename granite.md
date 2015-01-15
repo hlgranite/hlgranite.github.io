@@ -2,7 +2,7 @@
 layout: page
 title: Granite
 permalink: /granite/
-categories: granite
+categories: granite house
 ---
 
 We offer several types of granite.

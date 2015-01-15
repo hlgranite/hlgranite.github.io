@@ -2,7 +2,7 @@
 layout: page
 title: Marble
 permalink: /marble/
-categories: marble
+categories: marble house
 ---
 
 We offer several types of marble.

@@ -2,6 +2,7 @@
 layout: page
 title: Renovation
 permalink: /house/
+categories: house
 ---
 
 We provide house renovation works from kitchen top, bar counter, until flooring and including installation.
