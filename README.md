@@ -1,6 +1,13 @@
 HLGranite Homepage
 ==================
 
+Setup
+-----
+~~~
+$ cd hlgranite.github.io
+$ jekyll serve
+~~~
+Now go to http://localhost:4000/
 
 
 Further Reading or Reference
