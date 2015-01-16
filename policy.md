@@ -2,6 +2,7 @@
 layout: page
 title: Company Policy & Employee Handbook
 permalink: /policy/
+categories: policy employee company handbook sop
 ---
 
 [English Version](https://docs.google.com/document/d/1o7WjYx-dSLwjEgJIm5QEUXkDTY9uB-9RwQ-RysmRnkM/)

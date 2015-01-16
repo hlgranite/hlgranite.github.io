@@ -2,7 +2,7 @@
 layout: page
 title: Batu Nisan
 permalink: /nisan/
-categories: tomb nisan
+categories: tomb nisan malay
 ---
 
 There are 4 types of Batu Nisan - Batu Batik, Batu Putih, Batu Hitam, and Batu Hijau with 3 sizes - 1½'(child), 2'(adult), and 2½'.
@@ -31,8 +31,8 @@ There are 4 types of Batu Nisan - Batu Batik, Batu Putih, Batu Hitam, and Batu H
 ## Batu Hijau(P)
 ![Batu Hijau(P)](/images/BatuHijau20P.JPG)
 
-## Segi Batik
+## Batu Batik Segi
 ![Segit Batik](/images/SegiBatik20.JPG)
 
-## Segi Hitam
+## Batu Hitam Segi
 ![Segit Hitam](/images/SegiHitam20.JPG)
