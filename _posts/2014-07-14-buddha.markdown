@@ -1,0 +1,51 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: safe.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: House Buddha Plate
+description: One of the Chinese tradition custom is to prostrate Tigong (天官) & Dizhu (地主) god.
+
+---
+
+### T003
+![T003](/img/T003.jpg)
+
+### T004
+![T004](/img/T004.jpg)
+
+### T005
+![T005](/img/T005.jpg)
+
+### T006
+![T006](/img/T006.jpg)
+
+### T007
+![T007](/img/T007.jpg)
+
+###T008
+![T008](/img/T008.jpg)
+
+### T011
+![T011](/img/T011.jpg)
+
+### T012
+![T012](/img/T012.jpg)
+
+### S001
+![S001](/img/S001.jpg)
+
+### S002
+![S002](/img/S002.jpg)
+
+### D001
+![D001](/img/D001.jpg)
+
+### N001
+![N001](/img/N001.jpg)
+
+### N002
+![N002](/img/N002.jpg)
