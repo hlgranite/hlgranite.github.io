@@ -1,0 +1,72 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: granite.png
+alt: Granite
+project-date: April 2014
+client: Start Bootstrap
+category: Granite
+description: We offer several types of granite.
+
+---
+
+### 1. \#603
+![603](/img/603.jpg)
+
+### 2. \#664
+![664](/img/664.jpg)
+
+### 3. Rustic Stone
+![Rustic Stone](/img/rustic_stone.jpg)
+
+### 4. Casa White
+![Casa White](/img/case_white.jpg)
+
+### 5. Entertainment Gold Hemp
+![Entertainment Gold Hemp](/img/gold_hemp.jpg)
+
+### 6. Polychrome
+![Polychrome](/img/polychrome.jpg)
+
+### 7. Pearl Blue
+![Pearl Blue](/img/pearl_blue.jpg)
+
+### 8. Night Rose
+![Night Rose](/img/night_rose.jpg)
+
+### 9. Shanxi Black
+![Shanxi Black](/img/shanxi_black.jpg)
+
+### 10. Cafe Bahia
+![Cafe Bahia](/img/cafe_bahia.jpg)
+
+### 11. Tan Brown
+![Tan Brown](/img/tan_brown.jpg)
+
+### 12. Butterfly Blue
+![Butterfly Blue](/img/butterfly_blue.jpg)
+
+### 13. Pearl White
+![Pearl White](/img/pearl_white.jpg)
+
+### 14. Big White Flower
+![Big White Flower](/img/big_white_flower.jpg)
+
+### 15. Blue Pearl
+![Blue Pearl](/img/blue_pearl.jpg)
+
+### 16. Black Galaxy
+![Black Galaxy](/img/black_galaxy.jpg)
+
+### 17. Emerald Pearl
+![Emerald Pearl](/img/emerald_pearl.jpg)
+
+### 18. Baltic Brown
+![Baltic Brown](/img/baltic_brown.jpg)
+
+### 19. Ruby Red
+![Ruby Red](/img/ruby_red.jpg)
+
+### 20. Labrador Antico
+![Labrador Antico](/img/labrador_antico.jpg)
