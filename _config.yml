@@ -1,37 +1,15 @@
 # Site settings
 title: HL Granite & Marble
 email: hlgranite@gmail.com
-url: http://www.hlgranite.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 18bc9c #80B3FF
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-  
-# Footer settings
-footer:
-  copyright: HL Granite & Marble
-  location: Location
-  social: Around the Web
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/hlgranite
-  - title: facebook
-    url: https://www.facebook.com/hlgranite
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-  
-# Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+description: > # this means to ignore newlines until "baseurl:"
+  This is homepage of HL Granite & Marble. We provide any kind of granite and marble solution,
+  specialist in house renovation, kitchen top, flooring. Also involved in
+  tomb making, Chinese traditional Fengshui, and Malay Batu Nisan.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.hlgranite.com" # the base hostname & protocol for your site
+facebook_username: hlgranite
+twitter_username: hlgranite
+github_username:  hlgranite
 
 # Build settings
 markdown: kramdown
-permalink: pretty
