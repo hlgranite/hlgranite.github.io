@@ -1,18 +1,31 @@
-HLGranite Homepage
-==================
+Freelancer Jekyll theme
+=========================
 
-Setup
------
-~~~
-$ cd hlgranite.github.io
-$ jekyll serve
-~~~
-Now go to http://localhost:4000/
+Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
+## How to use
+ - Place a image in `/img/portoflio/`
+ - Create posts to display your projects. Use the follow as an example:
+```txt
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: July 2014
+client: The Client
+category: Web Development
+description: The description of the project
 
-Further Reading or Reference
-----------------------------
-- [Jekyll](http://jekyllrb.com/)
-- [Octopress Third Party Theme](https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes)
-- [Home - Alessandro Melandri](http://melandri.net/)
-- http://dbtvblog.herokuapp.com/blog/2012/11/06/how-to-install-a-custom-theme-on-octopress/
+---
+```
+
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+
+=========
+For more details, read [documentation](http://jekyllrb.com/)
