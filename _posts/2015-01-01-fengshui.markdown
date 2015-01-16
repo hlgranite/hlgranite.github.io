@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2015-01-01
+img: circus.png
+alt: image-alt
+project-date: January 2014
+client: Start Bootstrap
+category: Tomb Chinese Fengshui
+description: We are the Chinese Tomb maker at northern Malaysia.
+
+---
