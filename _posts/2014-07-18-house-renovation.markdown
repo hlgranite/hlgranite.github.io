@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
-alt: image-alt
+img: house.jpg
+alt: house renovation
 project-date: April 2014
 client: Start Bootstrap
 category: House Renovation
