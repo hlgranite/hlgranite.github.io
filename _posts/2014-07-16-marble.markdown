@@ -1,0 +1,27 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: circus.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Marble
+description: We offer several types of marble.
+
+---
+
+### 1. Dark Emperador
+![Dark Emperador](/img/dark_emperador.jpg)
+
+### 2. Silver Dragon
+![Silver Dragon](/img/silver_dragon.jpg)
+
+### 3. Grey Wooden Marble
+![Grey Wooden Marble](/img/grey_wooden.jpg)
+
+### 4. Kally Ice Jade
+![Kally Ice Jade](/img/kally_ice_jade.jpg)
+
+### 5. Egypt Yellow
+![Egypt Yellow](/img/egypt_yellow.jpg)
