@@ -15,7 +15,7 @@ footer:
   copyright: HL Granite & Marble
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -23,6 +23,10 @@ social:
     url: http://twitter.com/hlgranite
   - title: facebook
     url: https://www.facebook.com/hlgranite
+  - title: envelope
+    url: mailto:hlgranite@gmail.com
+  - title: map-marker
+    url: https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=Cf6wyzhpOOK7FVDFWQAdzPX9BSmhRUBfE3ZJMDGkTqsKEYPkbA&q=HLGranite+loc:+Kedah,+Malaysia&aq=&sll=6.102237,100.383797&sspn=0.029657,0.052314&vpsrc=6&ie=UTF8&hq=HLGranite&hnear=&ll=6.093587,100.382531&spn=0.001854,0.00327&t=m&z=19&cid=5343873147049093163&iwloc=A
 
 # Postal address (add as many lines as necessary)
 address:
@@ -31,7 +35,7 @@ address:
   - line: Alor Setar, Malaysia
   
 # Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Tel/Fax: +604-7319486<br/>Mobile: +6012-4200963, +6012-4250037'
 
 # Build settings
 markdown: kramdown
