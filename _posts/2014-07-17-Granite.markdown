@@ -7,11 +7,9 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Granite
-description: 
+description: We offer several types of granite.
 
 ---
-
-We offer several types of granite.
 
 ### 1. \#603
 ![603](/img/603.jpg)

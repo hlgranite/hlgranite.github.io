@@ -7,11 +7,10 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: House Renovation
+description: We provide house renovation works from kitchen top, bar counter, until flooring and including installation.
 ---
 
-We provide house renovation works from kitchen top, bar counter, until flooring and including installation.
-
-## Kitchen Top
+### Kitchen Top
 Most of the kitchentop today is divided into dry & wet kitchen. Dry kitchen purposely design for light usage while wet kitchen is used to purposely cook which need more case.
 
 ![Kitchentop](/img/kitchentop.jpg)
@@ -34,17 +33,17 @@ Most of the kitchentop today is divided into dry & wet kitchen. Dry kitchen purp
 
 ![Kitchentop9](/img/kitchentop9.jpg)
 
-## Bar Counter
+### Bar Counter
 Only kitchen is not suit the lifestyle people nowadays. A bar counter is needed to place more drink and uses to serve your friend.
 
 ![Barcounter](/img/barcounter.jpg)
 
-## Kitchen Island
+### Kitchen Island
 Kitchen island can uses as dinning table or uses as table to place food before or after cook.
 
 ![island](/img/island.jpg)
 
-## Basin Top
+### Basin Top
 Enhanced only by a single granite basin, this bathroom still look great.
 
 ![Basintop](/img/basintop.jpg)
@@ -53,7 +52,7 @@ Sink today is not fixed use only metal but also granite. A single granite sink m
 
 ![Basintop2](/img/basintop2.jpg)
 
-## Staircases
+### Staircases
 The most important feature for a staircases is to link downstairs with upstairs. A comfort stair is designs for comfort living. With the right matching of different granite, staircases is no longer a dull design.
 
 ![Staircase](/img/staircase.jpg)
