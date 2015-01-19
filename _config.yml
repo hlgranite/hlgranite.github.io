@@ -35,7 +35,7 @@ address:
   - line: Alor Setar, Malaysia
   
 # Credits content
-credits: 'Tel/Fax: +604-7319486<br/>Mobile: +6012-4200963, +6012-4250037'
+credits: 'Tel/Fax: +604-7319486<br/>Mobile: +6012-4200963, +6012-4250037<br/>Email: <a href="mailto:hlgranite@gmail.com">hlgranite@gmail.com</a>'
 
 # Build settings
 markdown: kramdown
