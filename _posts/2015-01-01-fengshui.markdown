@@ -2,11 +2,17 @@
 layout: default
 modal-id: 7
 date: 2015-01-01
-img: circus.png
+img: fengshui.png
 alt: fengshui
 project-date: January 2014
 client: Start Bootstrap
 category: Tomb Chinese Fengshui
-description: We are the Chinese Tomb maker at northern Malaysia.
+description: 
 
 ---
+
+We are the one of the top Chinese Tomb maker at northern Malaysia. We offer traditional tomb construction at graveyard. Fengshui is a Chinese culture to remember their ancestors.
+
+![Fengshui](/img/chinese_tomb_stone.jpg)
+
+![Fengshui2](/img/chinese_tomb_stone2.jpg)
