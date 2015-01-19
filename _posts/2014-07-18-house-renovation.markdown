@@ -58,3 +58,42 @@ The most important feature for a staircases is to link downstairs with upstairs.
 ![Staircase](/img/staircase.jpg)
 
 ![Staircase2](/img/staircase2.jpg)
+
+## Profiling & Repolishing
+Enchanced your granite top with a better joint.
+
+### Edge Polish (EP)
+
+![Edge Polish](/img/ep.png)
+
+### Double Edge Polish (DEP)
+
+![Double Edge Polish](/img/dep.png)
+
+### Cut Polish (CP)
+
+![Cut Polish](/img/cp.png)
+
+### Bullnose (B)
+
+![Bullnose](/img/bullnose.png)
+
+### Double Bullnose(DB)
+
+![Double Bullnose](/img/db.png)
+
+### Round (R)
+
+![Round](/img/round.png)
+
+### Double Cut Polish (DCP)
+
+![Double Cut Polish](/img/dcp.png)
+
+### Straight Joint
+
+![Straight Joint](/img/dep.png)
+
+### Bird Mouth Joint
+
+![Bird Mouth Joint](/img/bird.png)
