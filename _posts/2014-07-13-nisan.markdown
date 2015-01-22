@@ -36,7 +36,7 @@ description: There are 4 types of Batu Nisan - Batu Batik, Batu Putih, Batu Hita
 ![Batu Hijau(P)](/img/BatuHijau20P.JPG)
 
 ### Batu Batik Segi
-![Segit Batik](/img/SegiBatik20.jpg)
+![Segit Batik](/img/SegiBatik20.JPG)
 
 ### Batu Hitam Segi
-![Segit Hitam](/img/SegiHitam20.jpg)
+![Segit Hitam](/img/SegiHitam20.JPG)
